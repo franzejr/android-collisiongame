@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/src/main/res/values/colors.xml -->
+    <eat-comment />
+
+    <color name="black_overlay">#66000000</color>
+    <!-- From: file:/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/src/main/res/values/attrs.xml -->
+    <eat-comment />
+
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr name="metaButtonBarStyle" format="reference" />
+        <attr name="metaButtonBarButtonStyle" format="reference" />
+    </declare-styleable>
+    <!-- From: file:/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="about_content">About</string>
+    <string name="app_name">Collision Game</string>
+    <string name="game_name_title">COLLISION\nGAME</string>
+    <string name="hello">Hello World, AndEngineSimpleGame!</string>
+    <string name="start_button">Start</string>
+    <string name="title_activity_main">Collision Game</string>
+    <!-- From: file:/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="ButtonBar">
+        <item name="android:paddingLeft">2dp</item>
+        <item name="android:paddingTop">5dp</item>
+        <item name="android:paddingRight">2dp</item>
+        <item name="android:paddingBottom">0dp</item>
+        <item name="android:background">@android:drawable/bottom_bar</item>
+    </style>
+
+    <style name="ButtonBarButton" />
+
+    <style name="FullscreenTheme" parent="android:Theme.NoTitleBar">
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowBackground">@null</item>
+        <item name="metaButtonBarStyle">@style/ButtonBar</item>
+        <item name="metaButtonBarButtonStyle">@style/ButtonBarButton</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

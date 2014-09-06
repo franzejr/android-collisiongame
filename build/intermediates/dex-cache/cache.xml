@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/build/intermediates/pre-dexed/debug/andengine-6dad92da70424771f2ead89e4fac9b7cbb5a769e.jar"
+        jar="/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/src/lib/andengine.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="455c253f96ea699c70cb9795122fac33fdff682a"/>
+    <item
+        dex="/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-bca9cd8c8082330ef7549e0398af852faae531fd.jar"
+        jar="/Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/build/intermediates/pre-dexed/debug/classes-c9ce33dbb5873d574b5afe26a6734527b02b1d7f.jar"
+        jar="/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-55492d0560ca6b64f41a473d7ab398c08f06fd6d.jar"
+        jar="/Users/franzejr/AndroidstudioProjects/CollisionGame/CollisionGame/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+
+</pre-dex-items>

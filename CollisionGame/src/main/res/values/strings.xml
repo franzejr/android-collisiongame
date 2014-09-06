@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndEngineSimpleGame!</string>
+    <string name="app_name">Collision Game</string>
+    <string name="title_activity_main">Collision Game</string>
+    <string name="start_button">Start</string>
+    <string name="game_name_title">COLLISION\nGAME</string>
+    <string name="about_content">About</string>
+
+</resources>

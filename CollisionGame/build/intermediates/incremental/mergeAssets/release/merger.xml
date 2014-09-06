@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="2" >
+
+    <dataSet config="main" >
+        <source path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets" >
+            <file
+                name="gfx/fail.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/fail.png" />
+            <file
+                name="gfx/marfran.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/marfran.png" />
+            <file
+                name="gfx/paused.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/paused.png" />
+            <file
+                name="gfx/Player.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/Player.png" />
+            <file
+                name="gfx/Player2.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/Player2.png" />
+            <file
+                name="gfx/Player_antigo.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/Player_antigo.png" />
+            <file
+                name="gfx/Projectile.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/Projectile.png" />
+            <file
+                name="gfx/Projectile2.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/Projectile2.png" />
+            <file
+                name="gfx/Target.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/Target.png" />
+            <file
+                name="gfx/Target_antigo.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/Target_antigo.png" />
+            <file
+                name="gfx/win.png"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/gfx/win.png" />
+            <file
+                name="mfx/background_music.wav"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/mfx/background_music.wav" />
+            <file
+                name="mfx/explosion.ogg"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/mfx/explosion.ogg" />
+            <file
+                name="mfx/pew_pew_lei.wav"
+                path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/main/assets/mfx/pew_pew_lei.wav" />
+        </source>
+    </dataSet>
+    <dataSet config="release" >
+        <source path="/Users/franzejr/AndroidstudioProjects/AndEngine Simple Game/AndEngineSimpleGame/src/release/assets" />
+    </dataSet>
+
+</merger>
